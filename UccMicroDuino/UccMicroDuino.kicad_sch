@@ -2804,7 +2804,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "embeddedPcbUsb:USB_A_UCC"
 			(at 60.96 102.87 0)
 			(effects
 				(font
